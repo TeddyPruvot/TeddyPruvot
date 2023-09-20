@@ -30,9 +30,6 @@ body{
 #experiences{
     background-color: #8C9C7C;
 }
-.row{
-    margin-top: 20px;
-}
 p{
     color: #E8EACC;
 }
@@ -48,4 +45,21 @@ p{
 .btn2{
     background-color: #232826;
     color: #E8EACC;
+}
+#navcolor{
+    color: #E8EACC;
+}
+#tag{
+    color: #232826;
+}
+#button2{
+    background-color: #232826;
+    border: 0px;
+}
+#txtgras{
+    font-weight: bold;
+    text-decoration: underline;
+}
+#txtitalic{
+    font-style: italic;
 }
