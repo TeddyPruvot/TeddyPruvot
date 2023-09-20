@@ -9,3 +9,33 @@
 body{
     background-color: #E8EACC ;
 }
+#compétences{
+    background-color:#8C9C7C ;
+}
+.card-body{
+    height: 50vh;
+    border: 5px solid #8C9C7C;
+    background-color: #E8EACC;
+}
+.btn{
+    background-color: #8C9C7C;
+}
+#diplomes{
+    background-color: #8C9C7C;
+}
+#portfolio{
+    background-color: #8C9C7C;
+    height: 200px;
+}
+#experiences{
+    background-color: #8C9C7C;
+}
+.row{
+    margin-top: 20px;
+}
+p{
+    color: #E8EACC;
+}
+.card-text{
+    color: black;
+}
