@@ -39,3 +39,13 @@ p{
 .card-text{
     color: black;
 }
+#form{
+    background-color: #8C9C7C;
+}
+.form-control{
+    background-color: #E8EACC;
+}
+.btn2{
+    background-color: #232826;
+    color: #E8EACC;
+}
