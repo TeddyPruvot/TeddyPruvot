@@ -13,7 +13,6 @@ body{
     background-color:#8C9C7C ;
 }
 .card-body{
-    height: 50vh;
     border: 5px solid #8C9C7C;
     background-color: #E8EACC;
 }
@@ -62,4 +61,22 @@ p{
 }
 #txtitalic{
     font-style: italic;
+}
+#bold{
+    font-weight: bold;
+}
+#logo{
+    height: 25px;
+}
+#mail{
+    color: #E8EACC;
+    height: 40px;
+}
+.hauteur{
+    height: 50vh;
+}
+@media screen and (max-width:376px) {
+    .hauteur{
+        height: auto;
+    }
 }
